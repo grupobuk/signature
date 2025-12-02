@@ -1,83 +1,3 @@
-VERSÃO 2 É A MAIS CORRETA
-
-Versão 1
-
-<!DOCTYPE html>
-<html lang="pt-PT">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Assinatura de Email Grupo BUK</title>
-</head>
-
-<body style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 14px; color: #555; margin: 0; padding: 20px;">
-  <table cellpadding="0" cellspacing="0" width="100%" style="max-width: 500px; margin: 0;">
-    <tr>
-      <td style="padding: 10px 0;">
-        <table cellpadding="0" cellspacing="0" width="100%">
-          <tr>
-            <td width="115" style="vertical-align: middle;">
-              <a href="http://www.grupobuk.com"><img src="https://github.com/grupobuk/signature/blob/main/logo-1.png?raw=true" alt="Logo" width="115" style="display: block; width: 100%; height: auto;"></a>
-            </td>
-            <td style="padding-left: 15px; vertical-align: top; padding-top: 0px;">
-              <div style="font-size: 22px; font-weight: bold; color: #333;">Afonso Veríssimo</div>
-              <div style="font-size: 12px; color: #777;">Web Department</div>
-              <div style="font-size: 14px; font-weight: bold;">
-                <div style="text-decoration: none; color: #444; font-size: 14px !important;">+351 964 268 343</div>
-              </div>
-              <div style="font-size: 14px; font-weight: bold;">
-                <a href="http://www.grupobuk.com" style="text-decoration: none; color: #444; font-size: 14px !important;">www.grupobuk.com
-                </a>
-              </div>
-            </td>
-             <td style="vertical-align: middle; padding-left: 10px;">
-              <img src="https://github.com/grupobuk/signature/blob/main/xmas-25.png?raw=true"
-                   alt="Banner"
-                   style="width:150px; height:auto; display:block">
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding-top: 10px; padding-left: 0px; border-top: 2px solid #ccc; color: #777;">
-        <table cellpadding="0" cellspacing="0" width="100%">
-          <tr style="line-height: 1.2;">
-            <td style="vertical-align: top; padding-bottom: 5px; width: 50%; color: #333; font-size: 10px;">
-              <strong>PORTUGAL</strong><br>
-              Rua Rainha Santa Teresa, 304<br>
-              4580-652, Vilela, Paredes<br>
-              <a href="mailto:geral@grupobuk.com" style="text-decoration: none; color: #444;">geral@grupobuk.com</a><br>
-              <a href="tel:+351227666891" style="text-decoration: none; color: #444;">+351 227 666 891</a>
-            </td>
-            <td style="vertical-align: top; padding-bottom: 5px; width: 50%; color: #333; font-size: 10px;">
-              <strong>SPAIN</strong><br>
-              C/Matemático Pedrayes, 22<br>
-              4ºC 33004, Oviedo<br>
-              <a href="mailto:correo@grupobuk.com" style="text-decoration: none; color: #444;">correo@grupobuk.com</a><br>
-              <a href="tel:+34673416268" style="text-decoration: none; color: #444;">+34 673 416 268</a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-  <table cellpadding="0" cellspacing="0" width="100%" style="padding: 20px 0px 0px 0px;">
-    <tr>
-      <td style="font-size: 8px; color: #777;">
-        <p style="line-height: 1.3; color: #555; text-align: left;">El Responsable de sus datos es INJOLOSA DESARROLLOS S.A. Se le informa que sus datos se van a tratar con la finalidad de gestionar las comunicaciones realizadas a través de su correo, atender a los servicios prestados por el Responsable y para el envío de información comercial. La base legal para el tratamiento de los datos se basa en el consentimiento del interesado o en la relación contractual. Los datos personales se mantendrán siempre que el cliente siga vinculado al Responsable. Al finalizar, se mantendrán durante los plazos legalmente previstos o en caso de no existencia de plazo legal, hasta que el interesado solicite su supresión o revoque el consentimiento otorgado. Sus datos no se cederán a terceros, salvo obligación legal. Los destinatarios serán los distintos departamentos o secciones dentro de la organización del Responsable. Se le informa, además, que sus datos de carácter personal, formarán parte de un fichero responsabilidad de INJOLOSA DESARROLLOS S.A ante el cual podrá ejercitar sus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y en determinados casos a la portabilidad de los datos, mediante los formularios que pueden ser solicitados por mail a correo@grupobuk.com o utilizar los elaborados por la Agencia Española de Protección de Datos, debiendo ir firmados electrónicamente o acompañados de fotocopia del DNI. Si se actúa por medio de representante de la misma manera deberá ir acompañado de copia de su DNI o con firma electrónica. Los formularios se podrán presentar presencialmente en la entidad, remitir por correo o dirección electrónica, en las direcciones que aparecen en el principio. Tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos en el supuesto que considere que no se ha atendido convenientemente el ejercicio de sus derechos. El plazo máximo para resolver es el de un mes a contar desde la recepción de su solicitud. En el caso de producirse alguna modificación de sus datos, le agradecemos nos lo comunique debidamente por escrito con la finalidad de mantener sus datos actualizados. Este mensaje y los documentos que, en su caso, lleve anexos, pueden contener información confidencial. Si usted lo ha recibido por error, le rogamos nos lo comunique y proceda a borrarlo de inmediato. Cualquier otro uso no autorizado está prohibido legalmente. <a href="mailto:geral@grupobuk.com" style="text-decoration: none; color: #444;">geral@grupobuk.com</a>.
-        </p>
-      </td>
-    </tr>
-  </table>
-</body>
-
-</html>
-
-------------------------------------------------------------------------------------------
-
-V2
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -94,7 +14,7 @@ V2
             <!-- LOGO -->
             <td width="130" style="padding:0; vertical-align:middle;">
               <a href="http://www.grupobuk.com">
-                <img src="https://github.com/grupobuk/signature/blob/main/logo-1.png?raw=true"
+                <img src="https://github.com/grupobuk/signature/blob/main/XMAS%2025/logo-1.png?raw=true"
                      width="130" alt="Logo"
                      style="display:block; border:0;">
               </a>
@@ -131,7 +51,7 @@ V2
 
             <!-- BANNER -->
             <td width="150" style="padding-left:10px; vertical-align:middle;">
-              <img src="https://github.com/grupobuk/signature/blob/main/xmas-25.png?raw=true"
+              <img src="https://github.com/grupobuk/signature/blob/main/XMAS%2025/xmas-25.png?raw=true"
                    width="150" alt="Banner"
                    style="display:block; border:0;">
             </td>
